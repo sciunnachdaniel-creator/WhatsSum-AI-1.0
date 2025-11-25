@@ -1,0 +1,7 @@
+{
+  "name": "WhatsSum AI 1.0",
+  "description": "A smart messaging assistant that summarizes unread WhatsApp-style messages and provides audio transcription for easy replying.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
